@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/czagrzebski/Projects/IIoT_Sensor_ADC/IIoT_Sensor.kicad_sch</source>
+    <date>Mon 25 Mar 2024 08:36:47 PM CDT</date>
+    <tool>Eeschema 7.0.10-7.0.10~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>AMC131M02 Isolated ADC Module</title>
+        <company>Creed Zagrzebski</company>
+        <rev>1.0</rev>
+        <date>2024-01-29</date>
+        <source>IIoT_Sensor.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/kemet/C0805C102K5RAC7800/411146</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63e0e551-8cf3-4553-ac52-6242285a10c3</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1µF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KBFNNNE/3886687</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9132a2d-4187-43f3-800f-d356e34c403a</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1µF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KBFNNNE/3886687</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0075e63b-8ef6-420b-a838-a91dbcb001b3</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/kemet/C0805C102K5RAC7800/411146</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>392d4a04-3365-44a5-b4c0-494082ab510a</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8983f370-2f86-402b-ae00-1aad01f8383e</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/kemet/C0805C102K5RAC7800/411146</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0583e00f-915a-45c5-82eb-0a02023b55f0</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5a0bcbf-e917-4fa2-ab98-f7c3ffe801b0</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/kemet/C0805C102K5RAC7800/411146</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43d948ca-b5aa-450f-a5dd-d908d524d761</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>4.7nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/murata-electronics/GRM2165C1H472JA01D/666693</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9eae5cb-e0a6-4892-be06-b80702a86c46</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>4.7nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/murata-electronics/GRM155R71C104KA88J/2610892</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e17152d-7842-4b5a-9ffc-1124695881a3</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d2c15c3-e12e-401a-8209-f3b6a2c7f075</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874</datasheet>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd6fc77c-42f5-49df-8d3e-60931daa7aea</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150080SS75000/4489921</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43335ec9-ec48-430b-bd1b-3419eafeab91</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>Ferrite</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/742792090/1639012</datasheet>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8276f3d3-26c5-49c3-93e8-486cccca745e</tstamps>
+    </comp>
+    <comp ref="FB2">
+      <value>Ferrite</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/742792090/1639012</datasheet>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>509f7e87-1390-4367-b542-2904e32aa7f0</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>AMC130M02DFMR</value>
+      <footprint>Custom:AMC130M02DFMR</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/amc130m02.pdf?ts=1703733915918&amp;ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FAMC130M02</datasheet>
+      <fields>
+        <field name="Height">3.55</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">AMC130M02DFMR</field>
+        <field name="Mouser Part Number">595-AMC130M02DFMR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/AMC130M02DFMR?qs=HoCaDK9Nz5eSLJJXUYivvA%3D%3D</field>
+      </fields>
+      <libsource lib="Lib_AMC130" part="AMC130M02DFMR" description="Analog to Digital Converters - ADC Two-channel, simultaneously-sampling, 16-bit, isolated delta-sigma ADC 20-SOIC -40 to 125"/>
+      <property name="Height" value="3.55"/>
+      <property name="Mouser Part Number" value="595-AMC130M02DFMR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/AMC130M02DFMR?qs=HoCaDK9Nz5eSLJJXUYivvA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="AMC130M02DFMR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Analog to Digital Converters - ADC Two-channel, simultaneously-sampling, 16-bit, isolated delta-sigma ADC 20-SOIC -40 to 125"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8b83e96-907a-4114-8ef7-0615ee31fcb3</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>MCU Input</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61300811121/4846839</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x08" description="Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a561fd9f-85a0-486d-8506-da96502c012a</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>CHANNEL0</value>
+      <footprint>Custom:CUI_TB001-500-02BE</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/cui-devices/TB001-500-02BE/10064058</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2bdcaec-4ce2-472c-87d0-1a42d8278ee9</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>CHANNEL1</value>
+      <footprint>Custom:CUI_TB001-500-02BE</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/cui-devices/TB001-500-02BE/10064058</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61eae9cf-88b7-42cb-a0ab-565db03dc5d7</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100kΩ</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100KL/727544</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80646062-040d-4bd5-bcbc-c658cf9bb75d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>49.9Ω</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6ENF49R9V/111027</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2963baa8-6049-4222-b348-1302a46631c2</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>49.9Ω</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6ENF49R9V/111027</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69c2be9f-32d3-426f-aa5c-04f371268bf5</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>27Ω</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-0727RL/727779</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91eba230-84d3-4ecd-b435-ad7e3b3638fc</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>49.9Ω</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6ENF49R9V/111027</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2bdcf998-dc14-4e69-bcc6-9806a68cb255</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>49.9Ω</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6ENF49R9V/111027</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75f6ec9f-da13-423b-8fde-d79e8f1d05dc</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>619Ω</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-07619RL/728079</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>565f3f34-890f-4e17-bd61-17c8cf458c2e</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10kΩ</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-6AEB103V/1465773</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72139779-22d4-44b3-a3d7-9b37d3790dc6</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>100kΩ</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100KL/727544</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>483eeb52-4eed-4b5e-a800-5ac882ca5ed5</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>100kΩ</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100KL/727544</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14f01db0-9819-4791-a507-e4ecde4c60e6</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100kΩ</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100KL/727544</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0b65944-63a9-44af-be44-6c03e77e8af8</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>33Ω</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/vishay-dale/CRCW080533R0FKEA/1175466</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ec5ef16-f35f-4ce1-a2b1-7412d1822ae2</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>68Ω</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/vishay-dale/CRCW080568R0FKEAC/7922338</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ea1aeb5-9b68-4201-8ae1-b0b8583881e3</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>FD0810004</value>
+      <footprint>Custom:FD0810004</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/diodes-incorporated/FD0810004/2684041</datasheet>
+      <fields>
+        <field name="Height">1.3</field>
+        <field name="Manufacturer_Name">Diodes Incorporated</field>
+        <field name="Manufacturer_Part_Number">FD0810004</field>
+        <field name="Mouser Part Number">621-FD0810004</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/FD0810004?qs=FYmA7lrD2lVzUHY%252Bf%252BYj%252BA%3D%3D</field>
+      </fields>
+      <libsource lib="LIB_FD0810004" part="FD0810004" description="Standard Clock Oscillators Crystal Oscillator SEAM5032 T&amp;R 1K"/>
+      <property name="Height" value="1.3"/>
+      <property name="Mouser Part Number" value="621-FD0810004"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/FD0810004?qs=FYmA7lrD2lVzUHY%252Bf%252BYj%252BA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Diodes Incorporated"/>
+      <property name="Manufacturer_Part_Number" value="FD0810004"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIoT_Sensor.kicad_sch"/>
+      <property name="ki_description" value="Standard Clock Oscillators Crystal Oscillator SEAM5032 T&amp;R 1K"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51edaaad-8490-4dde-a07a-56df9258ea8a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x08">
+      <description>Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead">
+      <description>Ferrite bead</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LIB_FD0810004" part="FD0810004">
+      <description>Standard Clock Oscillators Crystal Oscillator SEAM5032 T&amp;R 1K</description>
+      <docs>https://www.diodes.com/assets/Datasheets/FD_3-3V.pdf</docs>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">FD0810004</field>
+        <field name="Footprint">FD0810004</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/FD_3-3V.pdf</field>
+        <field name="Height">1.3</field>
+        <field name="Mouser Part Number">621-FD0810004</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/FD0810004?qs=FYmA7lrD2lVzUHY%252Bf%252BYj%252BA%3D%3D</field>
+        <field name="Manufacturer_Name">Diodes Incorporated</field>
+        <field name="Manufacturer_Part_Number">FD0810004</field>
+      </fields>
+      <pins>
+        <pin num="1" name="_OE_FUNCTION" type="passive"/>
+        <pin num="2" name="GROUND" type="passive"/>
+        <pin num="3" name="_CLOCK_OUTPUT" type="passive"/>
+        <pin num="4" name="VDD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lib_AMC130" part="AMC130M02DFMR">
+      <description>Analog to Digital Converters - ADC Two-channel, simultaneously-sampling, 16-bit, isolated delta-sigma ADC 20-SOIC -40 to 125</description>
+      <docs>https://www.ti.com/lit/ds/symlink/amc130m02.pdf?ts=1703733915918&amp;ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FAMC130M02</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">AMC130M02DFMR</field>
+        <field name="Footprint">SOIC127P1030X355-20N</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/amc130m02.pdf?ts=1703733915918&amp;ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FAMC130M02</field>
+        <field name="Height">3.55</field>
+        <field name="Mouser Part Number">595-AMC130M02DFMR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/AMC130M02DFMR?qs=HoCaDK9Nz5eSLJJXUYivvA%3D%3D</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">AMC130M02DFMR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DCDC_OUT" type="passive"/>
+        <pin num="2" name="DCDC_HGND" type="passive"/>
+        <pin num="3" name="HLDO_IN" type="passive"/>
+        <pin num="4" name="HLDO_OUT" type="passive"/>
+        <pin num="5" name="HGND" type="passive"/>
+        <pin num="6" name="GPO" type="passive"/>
+        <pin num="7" name="AIN1N" type="passive"/>
+        <pin num="8" name="AIN1P" type="passive"/>
+        <pin num="9" name="AIN0P" type="passive"/>
+        <pin num="10" name="AIN0N" type="passive"/>
+        <pin num="11" name="~{SYNC}/~{RESET}" type="passive"/>
+        <pin num="12" name="DOUT" type="passive"/>
+        <pin num="13" name="DVDD" type="passive"/>
+        <pin num="14" name="DCDC_CAP" type="passive"/>
+        <pin num="15" name="DGND" type="passive"/>
+        <pin num="16" name="~{DRDY}" type="passive"/>
+        <pin num="17" name="CLKIN" type="passive"/>
+        <pin num="18" name="SCLK" type="passive"/>
+        <pin num="19" name="~{CS}" type="passive"/>
+        <pin num="20" name="DIN" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="LIB_FD0810004">
+      <uri>/home/czagrzebski/Projects/IIoT_Sensor_ADC/LIB_FD0810004/FD0810004.kicad_sym</uri>
+    </library>
+    <library logical="Lib_AMC130">
+      <uri>/home/czagrzebski/Projects/IIoT_Sensor_ADC/Lib_AMC130/AMC130M02DFMR.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="AIN0N">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="10" pinfunction="AIN0N" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="AIN0P">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="9" pinfunction="AIN0P" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="AIN1N">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="7" pinfunction="AIN1N" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="AIN1P">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="AIN1P" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="CHANNEL0">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="CHANNEL1">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="CLK">
+      <node ref="IC1" pin="17" pinfunction="CLKIN" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="DCDC_CAP">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="14" pinfunction="DCDC_CAP" pintype="passive"/>
+    </net>
+    <net code="9" name="DCDC_HGND">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="FB2" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="DCDC_HGND" pintype="passive"/>
+    </net>
+    <net code="10" name="DCDC_OUT">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="DCDC_OUT" pintype="passive"/>
+    </net>
+    <net code="11" name="DGND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC1" pin="15" pinfunction="DGND" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Y1" pin="2" pinfunction="GROUND" pintype="passive"/>
+    </net>
+    <net code="12" name="DIN">
+      <node ref="IC1" pin="20" pinfunction="DIN" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="13" name="DOUT">
+      <node ref="IC1" pin="12" pinfunction="DOUT" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="DVDD">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="13" pinfunction="DVDD" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="Y1" pin="1" pinfunction="_OE_FUNCTION" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="VDD" pintype="passive"/>
+    </net>
+    <net code="15" name="HGND">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="FB2" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="HGND" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="HLDO_IN">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="HLDO_IN" pintype="passive"/>
+    </net>
+    <net code="17" name="HLDO_OUT">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="HLDO_OUT" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(Y1-_CLOCK_OUTPUT)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="Y1" pin="3" pinfunction="_CLOCK_OUTPUT" pintype="passive"/>
+    </net>
+    <net code="21" name="SCLK">
+      <node ref="IC1" pin="18" pinfunction="SCLK" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="22" name="unconnected-(IC1-GPO-Pad6)">
+      <node ref="IC1" pin="6" pinfunction="GPO" pintype="passive+no_connect"/>
+    </net>
+    <net code="23" name="~{CS_MCU}">
+      <node ref="IC1" pin="19" pinfunction="~{CS}" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="~{DRDY}">
+      <node ref="IC1" pin="16" pinfunction="~{DRDY}" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="~{SYNC}{slash}~{RESET}">
+      <node ref="IC1" pin="11" pinfunction="~{SYNC}/~{RESET}" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>

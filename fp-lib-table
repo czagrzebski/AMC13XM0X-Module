@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "digikey-symbols")(type "KiCad")(uri "/home/czagrzebski/Downloads/digikey-kicad-library/digikey-symbols")(options "")(descr ""))
+  (lib (name "kicad-symbols-master")(type "KiCad")(uri "/home/czagrzebski/Downloads/kicad-symbols-master")(options "")(descr ""))
+  (lib (name "ESP32-WROOM.lbr")(type "Eagle")(uri "/home/czagrzebski/Downloads/ESP32-WROOM.lbr")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/home/czagrzebski/Downloads/kicad-libraries/footprints")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "/home/czagrzebski/Downloads/kicad-libraries/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "Standard_Modified_Lib")(type "KiCad")(uri "${KIPRJMOD}/Standard_Modified_Lib.pretty")(options "")(descr ""))
+)

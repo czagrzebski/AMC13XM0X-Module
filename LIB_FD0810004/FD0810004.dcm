@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FD0810004
+D Standard Clock Oscillators Crystal Oscillator SEAM5032 T&R 1K
+K
+F https://www.diodes.com/assets/Datasheets/FD_3-3V.pdf
+$ENDCMP
+#
+#End Doc Library
