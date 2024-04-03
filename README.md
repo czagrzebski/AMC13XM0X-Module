@@ -10,4 +10,4 @@ The module features a 4-layer PCB design with a 2.54mm pitch header for interfac
 
 # AMC13XM0X ADC Overview
 
-The AMC13XMOX $\Delta\Sigma$ ADC is a high-precision, power isolated, simultaneous-sampling, 24-bit ADC. The AMC13XM02 features a fully integrated isolated DC/DC converter that allows single-supply operation from the low-side of the device. The reinforced and capactive isolation barrier is certified according to VDE V 0884-17 and UL1577. The isolation barrier is made of a $\text{Si}\text{O}_2$ barrier that provides $7070-V_{\text{PEAK}}$ reinforced isolation, per DIN EN IEC 60747-17. 
+The AMC13XMOX $\Delta\Sigma$ ADC is a high-precision, power isolated, simultaneous-sampling, 24-bit ADC. The AMC13XM02 features a fully integrated isolated DC/DC converter that allows single-supply operation from the low-side of the device. The reinforced and capactive isolation barrier is certified according to VDE V 0884-17 and UL1577. The isolation barrier is made of a $SiO_2$ barrier that provides $7070-V_{PEAK}$ reinforced isolation, per DIN EN IEC 60747-17. 
